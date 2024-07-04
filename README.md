@@ -1,4 +1,4 @@
-# Astro - Me
+# PORTOFOLIO FADLI
 Crisp, minimal, personal portfolio theme for Astro
 
 <img src="./public/Fas_Banner.png" alt="FAS Banner" />
