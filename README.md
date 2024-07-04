@@ -2,6 +2,7 @@
 Crisp, minimal, personal portfolio theme for Astro
 
 <img src="./public/Fas_Banner.png" alt="FAS Banner" />
+<img src="./public/Profile.png" alt="Profile" />
 
 
 Astro Me is a minimal theme created to serve minimalistic personal portfolio needs. It ships with almost all the basic Astro components that you might need while creating light-weight, performant, personal portfolios, that focus on shipping less Javascript by default.
