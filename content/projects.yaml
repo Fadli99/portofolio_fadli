@@ -13,3 +13,11 @@
   tags:
   icon: github
   image: https://raw.githubusercontent.com/Fadli99/Portofolio_Fadli/main/public/Fas_Banner.png
+
+- name: Sentiment Analysis Twitter
+  url: https://github.com/Fadli99/SentimentAnalysisTwitter/blob/main/Sentiment_Analysis_UMKM.ipynb
+  description: Project ini dilakukan untuk menganalisa sentiment pro & kontra terkait UMKM serta datanya ditarik melalui API Twitter
+  status: live
+  tags:
+  icon: github
+  image: https://raw.githubusercontent.com/Fadli99/Portofolio_Fadli/main/public/Fas_Banner.png
