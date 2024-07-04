@@ -4,6 +4,6 @@ export const SITE = {
     title: 'FAS',
     description: 'Crisp, minimal, personal portfolio theme for Astro',
     url: 'https://astro-me.vercel.app',
-    githubUrl: 'https://github.com/one-aalam/astro-me'
+    githubUrl: 'https://github.com/Fadli99'
     // description ?
 }
