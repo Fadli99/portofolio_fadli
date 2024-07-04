@@ -1,32 +1,12 @@
 - name: linkedin
   url: https://linkedin.com/in/one-aalam
 
-- name: twitter
-  url: https://twitter.com/aftabbuddy
-
-- name: facebook
-  url:
+- name: github
+  url: https://github.com/one-aalam
 
 - name: instagram
   url:
 
-- name: dribbble
+- name: whatsapp
   url:
 
-- name: behance
-  url:
-
-- name: producthunt
-  url:
-
-- name: github
-  url: https://github.com/one-aalam
-
-- name: goodreads
-  url:
-
-- name: youtube
-  url:
-
-- name: medium
-  url:
