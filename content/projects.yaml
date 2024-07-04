@@ -6,13 +6,10 @@
   icon: github
   image: https://raw.githubusercontent.com/Fadli99/Portofolio_Fadli/main/public/Fas_Banner.png
 
-- name: Astro - Ink
-  url: https://github.com/one-aalam/astro-ink
-  description: Astro Ink is a minimal theme created to serve minimalistic markdown-based blog needs. It ships with almost all the basic Astro components that you might need while creating light-weight, performant, personal blogs, that focus on shipping less Javascript by default..
+- name: Proyek Data Analyst
+  url: https://github.com/Fadli99/ProyekDataAnalyst/blob/main/proyek_data_analis.ipynb
+  description: Project ini merupakan bootcamp dari DICODING
   status: live
   tags:
-    - blog
-    - minimal
-    - dark mode
   icon: github
   image: https://raw.githubusercontent.com/Fadli99/Portofolio_Fadli/main/public/Fas_Banner.png
