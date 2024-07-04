@@ -4,7 +4,7 @@
   status: live
   tags:
   icon: github
-  image: https://raw.githubusercontent.com/Fadli99/Portofolio_Fadli/blob/main/public/Fas_Banner.png
+  image: https://raw.githubusercontent.com/Fadli99/Portofolio_Fadli/main/public/Fas_Banner.png
 
 - name: Astro - Ink
   url: https://github.com/one-aalam/astro-ink
