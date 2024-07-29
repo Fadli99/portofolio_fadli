@@ -1,11 +1,7 @@
 # PORTOFOLIO FADLI
-Crisp, minimal, personal portfolio theme for Astro
 
 <img src="./public/Fas_Banner.png" alt="FAS Banner" />
 <img src="./public/Profile.png" alt="Profile" />
-
-
-Astro Me is a minimal theme created to serve minimalistic personal portfolio needs. It ships with almost all the basic Astro components that you might need while creating light-weight, performant, personal portfolios, that focus on shipping less Javascript by default.
 
 It's hugely inspired by [Gatsby Intro](https://github.com/wkocjan/gatsby-theme-intro) and strives to remain light, while providing the basis for a beautiful, minimal portfolio. It even supports features like "Dark Mode" and "Resume Download" on top.
 
@@ -19,11 +15,6 @@ It's hugely inspired by [Gatsby Intro](https://github.com/wkocjan/gatsby-theme-i
 - __Dark Mode__ - All the color themes, support the Dark mode
 - __Print Ready__ - You can print your one-page portfolio through the browser's print function. The CSS will adjust as per the print media.
 - __Download Resume__ - You can even download the resume by visiting `/site-url/api/resume`
-
-_More features coming soon_
-
-- [ ] Form Spree for contact
-- [ ] Improved styles
 
 ## Development Instructions
 Unlike the default Astro project settings, this theme uses `yarn start` instead of `yarn dev` for local development to be compatible with `vercel dev` for local function development.
