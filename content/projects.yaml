@@ -1,3 +1,11 @@
+- name: Si Kecil Kelapa (Penjual Kelapa Parut dan Santan Kelapa)
+  url: https://github.com/Fadli99/SiKecil_Kelapa
+  description: Project ini dibuat untuk mempromosikan dagangan kelapa parut dan santan kelapa yang ada di pasar teluk gong
+  status: live
+  tags:
+  icon: github
+  image: https://raw.githubusercontent.com/Fadli99/Portofolio_Fadli/main/public/Fas_Banner.png
+
 - name: Analisis Permasalahan Perangkat Pencetak
   url: https://github.com/Fadli99/Project1/blob/main/Project1.ipynb
   description: Project ini dilakukan untuk menganalisa permasalahan pada perangkat pencetak dengan menggunakan metode clustering yaitu metode K-Means dan K-Medoids
